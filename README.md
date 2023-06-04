@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm techdye</h1>
 <h3 align="center">Just me.</h3>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **python**.
 
-- ⚡ Fun fact **1 + 1 = 10... in binary.**
+- ⚡ Fun fact **1 + 1 = 10**... **in binary**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
